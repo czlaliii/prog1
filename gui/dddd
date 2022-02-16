@@ -1,0 +1,1 @@
+g++ first.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o first 'fltk-config --ldflags --useimages
